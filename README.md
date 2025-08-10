@@ -1,6 +1,6 @@
 # Threat Hunting with Splunk
 
-![Splunk Logo](https://upload.wikimedia.org/wikipedia/commons/f/f3/Splunk_logo.png)
+![Splunk Logo](images/Splunk_logo.png)
 
 ## Introduction
 This repository contains a collection of **Splunk queries** designed for **threat hunting** in Windows environments.  
